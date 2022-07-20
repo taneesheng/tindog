@@ -1,2 +1,1 @@
-# tindog
-Tinder for dogs, made by bootstrap
+TinDog Starting Files
